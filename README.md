@@ -28,10 +28,6 @@ Cumulative GPA: 17.81/20
 Bachelor of Computer Engineering  
 Cumulative GPA: 17.94/20 (Last two years)
 
-## Publications
-
-(List your publications here)
-
 ## Experiences
 
 **Research Assistant** (Sep 2021 - Present)  
